@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		29BAB65F2611AA3A0057A710 /* TP2 Abidjan (calculatrice version 2).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TP2 Abidjan (calculatrice version 2).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		29BAB65F2611AA3A0057A710 /* TP1 Abidjan (calculatrice version 2).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TP1 Abidjan (calculatrice version 2).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		29BAB6622611AA3A0057A710 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		29BAB6642611AA3A0057A710 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		29BAB6662611AA3A0057A710 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		29BAB6602611AA3A0057A710 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				29BAB65F2611AA3A0057A710 /* TP2 Abidjan (calculatrice version 2).app */,
+				29BAB65F2611AA3A0057A710 /* TP1 Abidjan (calculatrice version 2).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		29BAB65E2611AA3A0057A710 /* TP2 Abidjan (calculatrice version 2) */ = {
+		29BAB65E2611AA3A0057A710 /* TP1 Abidjan (calculatrice version 2) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 29BAB6732611AA530057A710 /* Build configuration list for PBXNativeTarget "TP2 Abidjan (calculatrice version 2)" */;
+			buildConfigurationList = 29BAB6732611AA530057A710 /* Build configuration list for PBXNativeTarget "TP1 Abidjan (calculatrice version 2)" */;
 			buildPhases = (
 				29BAB65B2611AA3A0057A710 /* Sources */,
 				29BAB65C2611AA3A0057A710 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "TP2 Abidjan (calculatrice version 2)";
+			name = "TP1 Abidjan (calculatrice version 2)";
 			productName = "TP2 Abidjan (calculatrice version 2)";
-			productReference = 29BAB65F2611AA3A0057A710 /* TP2 Abidjan (calculatrice version 2).app */;
+			productReference = 29BAB65F2611AA3A0057A710 /* TP1 Abidjan (calculatrice version 2).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 29BAB65A2611AA3A0057A710 /* Build configuration list for PBXProject "TP2 Abidjan (calculatrice version 2)" */;
+			buildConfigurationList = 29BAB65A2611AA3A0057A710 /* Build configuration list for PBXProject "TP1 Abidjan (calculatrice version 2)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				29BAB65E2611AA3A0057A710 /* TP2 Abidjan (calculatrice version 2) */,
+				29BAB65E2611AA3A0057A710 /* TP1 Abidjan (calculatrice version 2) */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		29BAB65A2611AA3A0057A710 /* Build configuration list for PBXProject "TP2 Abidjan (calculatrice version 2)" */ = {
+		29BAB65A2611AA3A0057A710 /* Build configuration list for PBXProject "TP1 Abidjan (calculatrice version 2)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				29BAB6712611AA530057A710 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		29BAB6732611AA530057A710 /* Build configuration list for PBXNativeTarget "TP2 Abidjan (calculatrice version 2)" */ = {
+		29BAB6732611AA530057A710 /* Build configuration list for PBXNativeTarget "TP1 Abidjan (calculatrice version 2)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				29BAB6742611AA530057A710 /* Debug */,
