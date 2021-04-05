@@ -10,6 +10,8 @@ Cette calculatrice permet de faire de multiples operation. Associer des addition
  des mutltiplications et des divisions.
 On a mis des conditions pour eviter des symboles d'operation successifs
 
+NB: Les tests sur l'emulateur de Apple 11 pro max sont les plus rapides sur la machine distante
+
 
 
 
